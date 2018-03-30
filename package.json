@@ -1,0 +1,26 @@
+{
+  "name": "cococo-file",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "curl": "^0.1.4",
+    "handlebars": "^4.0.11",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangMVP/anydoor2.git"
+  },
+  "author": "yy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangMVP/anydoor2/issues"
+  },
+  "homepage": "https://github.com/yangMVP/anydoor2#readme"
+}
